@@ -1,0 +1,22 @@
+UK Legislation Scraping Summary
+===============================
+Date: Tue Jul 29 07:41:27 AM PDT 2025
+Period: 1900 - 2025
+Duration: 10h 52m
+
+Results:
+- Successful years: 126
+- Failed years: 0
+- Total records: 14484
+- Final file size: 4.2MiB
+
+Files created:
+- Individual year files: data/uk_legislation_YYYY.csv
+- Combined file: all.csv
+- Log file: scrape_all.log
+- This summary: scraping_summary.txt
+
+Availability Summary:
+- Available pages: 13979 / 14484
+- Available plain URLs: 14388 / 14484
+- Available PDF URLs: 14435 / 14484
