@@ -1,0 +1,366 @@
+UK Legislation Scraper Log - Started at Mon Jul 28 08:49:25 PM PDT 2025
+Processing year 1900 at Mon Jul 28 08:49:25 PM PDT 2025
+2025-07-28 20:49:25,160 - INFO - Scraping primary legislation only for year 1900
+2025-07-28 20:49:25,160 - INFO - Scraping primary legislation only for year 1900
+2025-07-28 20:49:25,160 - INFO - Fetching page 1 for year 1900: https://www.legislation.gov.uk/primary/1900
+2025-07-28 20:49:25,308 - INFO - Found 20 items on page 1
+2025-07-28 20:49:26,309 - INFO - Fetching page 2 for year 1900: https://www.legislation.gov.uk/primary/1900?page=2
+2025-07-28 20:49:26,339 - INFO - Found 20 items on page 2
+2025-07-28 20:49:27,340 - INFO - Fetching page 3 for year 1900: https://www.legislation.gov.uk/primary/1900?page=3
+2025-07-28 20:49:27,368 - INFO - Found 20 items on page 3
+2025-07-28 20:49:28,369 - INFO - Fetching page 4 for year 1900: https://www.legislation.gov.uk/primary/1900?page=4
+2025-07-28 20:49:28,395 - INFO - Found 20 items on page 4
+2025-07-28 20:49:29,396 - INFO - Fetching page 5 for year 1900: https://www.legislation.gov.uk/primary/1900?page=5
+2025-07-28 20:49:29,422 - INFO - Found 20 items on page 5
+2025-07-28 20:49:30,423 - INFO - Fetching page 6 for year 1900: https://www.legislation.gov.uk/primary/1900?page=6
+2025-07-28 20:49:30,449 - INFO - Found 20 items on page 6
+2025-07-28 20:49:31,450 - INFO - Fetching page 7 for year 1900: https://www.legislation.gov.uk/primary/1900?page=7
+2025-07-28 20:49:31,475 - INFO - Found 17 items on page 7
+2025-07-28 20:49:31,476 - INFO - No next page found after page 7
+2025-07-28 20:49:31,476 - INFO - Found total of 137 items for year 1900
+2025-07-28 20:49:31,476 - INFO - Enriching 137 items with additional URLs and checking availability
+2025-07-28 20:49:31,476 - INFO - Processing item 1/137: London County Council (Improvements) Act 1900
+2025-07-28 20:49:32,078 - INFO - Processing item 2/137: East London Waterworks Act 1900
+2025-07-28 20:49:32,660 - INFO - Processing item 3/137: Costa Rica Railway Company Act 1900
+2025-07-28 20:49:33,254 - INFO - Processing item 4/137: North British Railway (General Powers) Act 1900
+2025-07-28 20:49:33,854 - INFO - Processing item 5/137: Tramways Orders Confirmation (No. 5) Act 1900
+2025-07-28 20:49:34,447 - INFO - Processing item 6/137: Electric Lighting Orders Confirmation (No. 10) Act 1900
+2025-07-28 20:49:35,030 - INFO - Processing item 7/137: Post Office (Sites) Act 1900
+2025-07-28 20:49:35,612 - INFO - Processing item 8/137: Local Government Board (Ireland) Provisional Orders Confirmation (No. 4) Act 1900
+2025-07-28 20:49:36,199 - INFO - Processing item 9/137: Edinburgh Improvement Scheme Provisional Orders Confirmation Act 1900
+2025-07-28 20:49:36,779 - INFO - Processing item 10/137: Paisley Waterworks Provisional Order Confirmation Act 1900
+2025-07-28 20:49:37,362 - INFO - Processing item 11/137: London (St. Marylebone) Provisional Order Confirmation Act 1900
+2025-07-28 20:49:39,448 - INFO - Processing item 12/137: Tramways Orders Confirmation (No. 4) Act 1900
+2025-07-28 20:49:40,030 - INFO - Processing item 13/137: Tramways Orders Confirmation (No. 3) Act 1900
+2025-07-28 20:49:40,638 - INFO - Processing item 14/137: Tramways Orders Confirmation (No. 2) Act 1900
+2025-07-28 20:49:41,225 - INFO - Processing item 15/137: Tramways Orders Confirmation (No. 1) Act 1900
+2025-07-28 20:49:41,809 - INFO - Processing item 16/137: Education Board Provisional Order Confirmation (London) Act 1900
+2025-07-28 20:49:42,403 - INFO - Processing item 17/137: Local Government Board's Provisional Orders Confirmation (No. 15) Act 1900
+2025-07-28 20:49:42,989 - INFO - Processing item 18/137: Local Government Board's Provisional Orders Confirmation (No. 7) Act 1900
+2025-07-28 20:49:43,573 - INFO - Processing item 19/137: Perth and Paisley Gas Orders Confirmation Act 1900
+2025-07-28 20:49:44,175 - INFO - Processing item 20/137: Pier and Harbour Orders Confirmation (No. 2) Act 1900
+2025-07-28 20:49:44,760 - INFO - Processing item 21/137: Local Government Board (Ireland) Provisional Orders Confirmation (Housing of Working Classes) (No. 2) Act 1900
+2025-07-28 20:49:46,854 - INFO - Processing item 22/137: Local Government Board (Ireland) Provisional Orders Confirmation (Housing of Working Classes) Act 1900
+2025-07-28 20:49:47,662 - INFO - Processing item 23/137: Local Government Board (Ireland) Provisional Orders Confirmation (No. 3) Act 1900
+2025-07-28 20:49:48,257 - INFO - Processing item 24/137: London (Southwark) Provisional Order Confirmation Act 1900
+2025-07-28 20:49:48,841 - INFO - Processing item 25/137: London (St. Luke) Provisional Order Confirmation Act 1900
+2025-07-28 20:49:49,420 - INFO - Processing item 26/137: London (Poplar) Provisional Order Confirmation Act 1900
+2025-07-28 20:49:50,005 - INFO - Processing item 27/137: London (Clerkenwell and Holborn) Provisional Order Confirmation Act 1900
+2025-07-28 20:49:50,598 - INFO - Processing item 28/137: Local Government Board's Provisional Orders Confirmation (Housing of Working Classes) Act 1900
+2025-07-28 20:49:51,186 - INFO - Processing item 29/137: Local Government Board's Provisional Orders Confirmation (Poor Law) Act 1900
+2025-07-28 20:49:51,781 - INFO - Processing item 30/137: Local Government Board's Provisional Orders Confirmation (No. 14) Act 1900
+2025-07-28 20:49:52,360 - INFO - Processing item 31/137: Local Government Board's Provisional Orders Confirmation (No. 13) Act 1900
+2025-07-28 20:49:54,442 - INFO - Processing item 32/137: Local Government Board's Provisional Orders Confirmation (No. 12) Act 1900
+2025-07-28 20:49:55,028 - INFO - Processing item 33/137: Burnley Corporation Act 1900
+2025-07-28 20:49:55,615 - INFO - Processing item 34/137: Portland Urban District (Gas, &c.) Act 1900
+2025-07-28 20:49:56,199 - INFO - Processing item 35/137: South Eastern Metropolitan Tramways Act 1900
+2025-07-28 20:49:56,775 - INFO - Processing item 36/137: London Sea Water Supply Act 1900
+2025-07-28 20:49:57,376 - INFO - Processing item 37/137: Preston Corporation Act 1900
+2025-07-28 20:49:57,959 - INFO - Processing item 38/137: Bury and District Water (Transfer) Act 1900
+2025-07-28 20:49:58,544 - INFO - Processing item 39/137: Midland Railway Act 1900
+2025-07-28 20:49:59,122 - INFO - Processing item 40/137: Lancashire, Derbyshire and East Coast Railway Act 1900
+2025-07-28 20:49:59,719 - INFO - Processing item 41/137: Lambeth Waterworks Act 1900
+2025-07-28 20:50:01,803 - INFO - Processing item 42/137: Hastings Tramways Act 1900
+2025-07-28 20:50:02,421 - INFO - Processing item 43/137: Great Northern Railway Act 1900
+2025-07-28 20:50:03,004 - INFO - Processing item 44/137: Great Indian Peninsula Railway Purchase Act 1900
+2025-07-28 20:50:03,589 - INFO - Processing item 45/137: Margate Pier and Harbour Act 1900
+2025-07-28 20:50:04,166 - INFO - Processing item 46/137: Great Grimsby Street Tramways Act 1900
+2025-07-28 20:50:04,746 - INFO - Processing item 47/137: Rawmarsh Urban District Council (Tramways) Act 1900
+2025-07-28 20:50:05,331 - INFO - Processing item 48/137: Mersey Railway Act 1900
+2025-07-28 20:50:05,918 - INFO - Processing item 49/137: Edinburgh Corporation Act 1900
+2025-07-28 20:50:06,509 - INFO - Processing item 50/137: Nottingham Corporation Act 1900
+2025-07-28 20:50:07,089 - INFO - Processing item 51/137: Walker and Wallsend Union Gas Company (Electricity Capital) Act 1900
+2025-07-28 20:50:09,165 - INFO - Processing item 52/137: Belfast and County Down Railway Act 1900
+2025-07-28 20:50:09,795 - INFO - Processing item 53/137: London and San Francisco Bank Limited Act 1900
+2025-07-28 20:50:10,449 - INFO - Processing item 54/137: G. H. Hammond Company (Limited) Act 1900
+2025-07-28 20:50:11,096 - INFO - Processing item 55/137: Whitechapel and Bow Railway Act 1900
+2025-07-28 20:50:11,712 - INFO - Processing item 56/137: Dearne Valley Railway Act 1900
+2025-07-28 20:50:12,338 - INFO - Processing item 57/137: Gwyrfai District Water Act 1900
+2025-07-28 20:50:12,954 - INFO - Processing item 58/137: Exmouth Urban District Water Act 1900
+2025-07-28 20:50:13,582 - INFO - Processing item 59/137: Aston Manor Tramways Act 1900
+2025-07-28 20:50:14,244 - INFO - Processing item 60/137: Wellingborough and District Tramroads Act 1900
+2025-07-28 20:50:14,882 - INFO - Processing item 61/137: Hamilton, Motherwell and Wishaw Tramways Act 1900
+2025-07-28 20:50:17,006 - INFO - Processing item 62/137: Falkirk and District Waterworks Act 1900
+2025-07-28 20:50:17,762 - INFO - Processing item 63/137: South Staffordshire Tramways Act 1900
+2025-07-28 20:50:18,386 - INFO - Processing item 64/137: Regents Canal and Dock Act 1900
+2025-07-28 20:50:19,011 - INFO - Processing item 65/137: Lee Conservancy Act 1900
+2025-07-28 20:50:19,639 - INFO - Processing item 66/137: Westgate and Birchington Water Act 1900
+2025-07-28 20:50:20,267 - INFO - Processing item 67/137: Bray Urban District Council (Extension of Time) Act 1900
+2025-07-28 20:50:20,890 - INFO - Processing item 68/137: Great Southern and Western Railway Act 1900
+2025-07-28 20:50:21,531 - INFO - Processing item 69/137: Donegal Railway Act 1900
+2025-07-28 20:50:22,154 - INFO - Processing item 70/137: St. Albans Waterworks Act 1900
+2025-07-28 20:50:22,816 - INFO - Processing item 71/137: London and India Docks Amalgamation Act 1900
+2025-07-28 20:50:24,941 - INFO - Processing item 72/137: Great Eastern Railway (General Powers) Act 1900
+2025-07-28 20:50:25,578 - INFO - Processing item 73/137: Local Government (Ireland) Act 1900
+2025-07-28 20:50:26,221 - INFO - Processing item 74/137: Colonial Stock Act 1900
+2025-07-28 20:50:26,849 - INFO - Processing item 75/137: Supplemental War Loan Act 1900
+2025-07-28 20:50:27,463 - INFO - Processing item 76/137: Tramways (Ireland) Act 1900
+2025-07-28 20:50:28,103 - INFO - Processing item 77/137: Housing of the Working Classes Act 1900
+2025-07-28 20:50:28,721 - INFO - Processing item 78/137: Tithe Rentcharge (Ireland) Act 1900
+2025-07-28 20:50:29,345 - INFO - Processing item 79/137: Appropriation Act 1900
+2025-07-28 20:50:29,973 - INFO - Processing item 80/137: Military Lands Act 1900
+2025-07-28 20:50:30,592 - INFO - Processing item 81/137: Executors (Scotland) Act 1900
+2025-07-28 20:50:32,722 - INFO - Processing item 82/137: Lunacy Board (Scotland) Salaries and Clerks Act 1900
+2025-07-28 20:50:33,371 - INFO - Processing item 83/137: Elementary Education Act 1900
+2025-07-28 20:50:34,012 - INFO - Processing item 84/137: Naval Reserve Act 1900
+2025-07-28 20:50:34,650 - INFO - Processing item 85/137: Money-lenders Act 1900
+2025-07-28 20:50:35,281 - INFO - Processing item 86/137: Agricultural Holdings Act 1900
+2025-07-28 20:50:35,907 - INFO - Processing item 87/137: Town Councils (Scotland) Act 1900
+2025-07-28 20:50:36,532 - INFO - Processing item 88/137: Companies Act 1900
+2025-07-28 20:50:37,194 - INFO - Processing item 89/137: County Courts (Investment) Act 1900
+2025-07-28 20:50:37,848 - INFO - Processing item 90/137: Members of Local Authorities Relief Act 1900
+2025-07-28 20:50:38,471 - INFO - Processing item 91/137: Poor Relief (Ireland) Act 1900
+2025-07-28 20:50:40,602 - INFO - Processing item 92/137: Exportation of Arms Act 1900
+2025-07-28 20:50:41,222 - INFO - Processing item 93/137: Intermediate Education (Ireland) Act 1900
+2025-07-28 20:50:41,853 - INFO - Processing item 94/137: Reserve Forces Act 1900
+2025-07-28 20:50:42,521 - INFO - Processing item 95/137: Local Government (Ireland) (No. 2) Act 1900
+2025-07-28 20:50:43,150 - INFO - Processing item 96/137: Elementary School Teachers Superannuation (Jersey) Act 1900
+2025-07-28 20:50:43,795 - INFO - Processing item 97/137: Volunteer Act 1900
+2025-07-28 20:50:44,408 - INFO - Processing item 98/137: Elementary School Teachers Superannuation (Isle of Man) Act 1900
+2025-07-28 20:50:45,030 - INFO - Processing item 99/137: Expiring Laws Continuace Act 1900
+2025-07-28 20:50:45,667 - INFO - Processing item 100/137: Public Works Loans Act 1900
+2025-07-28 20:50:46,297 - INFO - Processing item 101/137: Oil in Tobacco Act 1900
+2025-07-28 20:50:48,424 - INFO - Processing item 102/137: Ancient Monuments Protection Act 1900
+2025-07-28 20:50:49,072 - INFO - Processing item 103/137: Wild Animals in Captivity Protection Act 1900
+2025-07-28 20:50:49,699 - INFO - Processing item 104/137: Merchant Shipping (Liability of Shipowners and Others) Act 1900
+2025-07-28 20:50:50,323 - INFO - Processing item 105/137: Isle of Man (Customs) Act 1900
+2025-07-28 20:50:50,947 - INFO - Processing item 106/137: Beer Retailers’ and Spirit Grocers’ Retail Licences (Ireland) Act 1900
+2025-07-28 20:50:51,593 - INFO - Processing item 107/137: London County Council Electors Qualification Act 1900
+2025-07-28 20:50:52,221 - INFO - Processing item 108/137: Inebriates Amendment (Scotland) Act 1900
+2025-07-28 20:50:52,844 - INFO - Processing item 109/137: Railway Employment (Prevention of Accidents) Act 1900
+2025-07-28 20:50:53,473 - INFO - Processing item 110/137: Land Charges Act 1900
+2025-07-28 20:50:54,120 - INFO - Processing item 111/137: Charitable Loan Societies (Ireland) Act 1900
+2025-07-28 20:50:56,255 - INFO - Processing item 112/137: Veterinary Surgeons Amendment Act 1900
+2025-07-28 20:50:57,093 - INFO - Processing item 113/137: Poor Removal Act 1900
+2025-07-28 20:50:57,738 - INFO - Processing item 114/137: Workmen’s Compensation Act 1900
+2025-07-28 20:50:58,396 - INFO - Processing item 115/137: Mines (Prohibition of Child Labour Underground) Act 1900
+2025-07-28 20:50:59,024 - INFO - Processing item 116/137: Ecclestiastical Assessments (Scotland) Act 1900
+2025-07-28 20:50:59,654 - INFO - Processing item 117/137: Land Registry (New Buildings) Act 1900
+2025-07-28 20:51:00,289 - INFO - Processing item 118/137: County Surveyors (Ireland) Act 1900
+2025-07-28 20:51:00,913 - INFO - Processing item 119/137: Naval Reserve (Mobilisation) Act 1900
+2025-07-28 20:51:01,546 - INFO - Processing item 120/137: District Councillors and Guardians (Term of Office) Act 1900
+2025-07-28 20:51:02,166 - INFO - Processing item 121/137: Burial Act 1900
+2025-07-28 20:51:04,295 - INFO - Processing item 122/137: Colonial Solicitors Act 1900
+2025-07-28 20:51:05,137 - INFO - Processing item 123/137: County Councils (Elections) Amendments Act 1900
+2025-07-28 20:51:05,767 - INFO - Processing item 124/137: Commonwealth of Australia Constitution Act 1900
+2025-07-28 20:51:06,442 - INFO - Processing item 125/137: Uganda Railway Act 1900
+2025-07-28 20:51:07,095 - INFO - Processing item 126/137: Public Health (Ireland) Act 1900
+2025-07-28 20:51:07,726 - INFO - Processing item 127/137: Police Reservists (Allowance) Act 1900
+2025-07-28 20:51:08,390 - INFO - Processing item 128/137: Electoral Disabilities (Military Service) Removal Act 1900
+2025-07-28 20:51:09,019 - INFO - Processing item 129/137: Finance Act 1900
+2025-07-28 20:51:09,655 - INFO - Processing item 130/137: Census (Ireland) Act 1900
+2025-07-28 20:51:10,292 - INFO - Processing item 131/137: Army (Annual) Act 1900
+2025-07-28 20:51:12,417 - INFO - Processing item 132/137: Census (Great Britain) Act 1900
+2025-07-28 20:51:13,043 - INFO - Processing item 133/137: Consolidated Fund (No. 2) Act 1900
+2025-07-28 20:51:13,697 - INFO - Processing item 134/137: Appropriation Act 1900 (Session 2)
+2025-07-28 20:51:14,313 - INFO - Processing item 135/137: War Loan Act 1900
+2025-07-28 20:51:14,932 - INFO - Processing item 136/137: Supplemental War Loan (No. 2) Act 1900
+2025-07-28 20:51:15,552 - INFO - Processing item 137/137: Consolidated Fund (No 1) Act 1900
+2025-07-28 20:51:16,174 - INFO - Saving 137 items to data/uk_legislation_1900.csv
+2025-07-28 20:51:16,175 - INFO - Successfully saved to data/uk_legislation_1900.csv
+2025-07-28 20:51:16,175 - INFO - Summary: 137/137 pages available, 137/137 plain URLs available, 137/137 PDF URLs available
+Processing year 1901 at Mon Jul 28 08:51:18 PM PDT 2025
+2025-07-28 20:51:18,341 - INFO - Scraping primary legislation only for year 1901
+2025-07-28 20:51:18,342 - INFO - Scraping primary legislation only for year 1901
+2025-07-28 20:51:18,342 - INFO - Fetching page 1 for year 1901: https://www.legislation.gov.uk/primary/1901
+2025-07-28 20:51:18,873 - INFO - Found 20 items on page 1
+2025-07-28 20:51:19,873 - INFO - Fetching page 2 for year 1901: https://www.legislation.gov.uk/primary/1901?page=2
+2025-07-28 20:51:20,293 - INFO - Found 20 items on page 2
+2025-07-28 20:51:21,294 - INFO - Fetching page 3 for year 1901: https://www.legislation.gov.uk/primary/1901?page=3
+2025-07-28 20:51:22,056 - INFO - Found 20 items on page 3
+2025-07-28 20:51:23,057 - INFO - Fetching page 4 for year 1901: https://www.legislation.gov.uk/primary/1901?page=4
+2025-07-28 20:51:23,779 - INFO - Found 20 items on page 4
+2025-07-28 20:51:24,780 - INFO - Fetching page 5 for year 1901: https://www.legislation.gov.uk/primary/1901?page=5
+2025-07-28 20:51:25,197 - INFO - Found 20 items on page 5
+2025-07-28 20:51:26,197 - INFO - Fetching page 6 for year 1901: https://www.legislation.gov.uk/primary/1901?page=6
+2025-07-28 20:51:26,920 - INFO - Found 20 items on page 6
+2025-07-28 20:51:27,920 - INFO - Fetching page 7 for year 1901: https://www.legislation.gov.uk/primary/1901?page=7
+2025-07-28 20:51:28,330 - INFO - Found 18 items on page 7
+2025-07-28 20:51:28,331 - INFO - No next page found after page 7
+2025-07-28 20:51:28,331 - INFO - Found total of 138 items for year 1901
+2025-07-28 20:51:28,331 - INFO - Enriching 138 items with additional URLs and checking availability
+2025-07-28 20:51:28,331 - INFO - Processing item 1/138: Paisley District Tramways Order Confirmation Act 1901
+2025-07-28 20:51:30,961 - INFO - Processing item 2/138: Pier and Harbour Order Confirmation (No. 4) Act 1901
+2025-07-28 20:51:32,877 - INFO - Processing item 3/138: Greenock Corporation Order Confirmation Act 1901
+2025-07-28 20:51:34,817 - INFO - Processing item 4/138: Education Board Provisional Order Confirmation (London) Act 1901
+2025-07-28 20:51:37,740 - INFO - Processing item 5/138: Tramways Orders Confirmation (No. 1) Act 1901
+2025-07-28 20:51:40,353 - INFO - Processing item 6/138: Watford and District Tramways Act 1901
+2025-07-28 20:51:43,242 - INFO - Processing item 7/138: City and Brixton Railway Act 1901
+2025-07-28 20:51:46,095 - INFO - Processing item 8/138: Southampton and Winchester Great Western Junction Railway Act 1901
+2025-07-28 20:51:48,003 - INFO - Processing item 9/138: Devonport Corporation (Gas) Act 1901
+2025-07-28 20:51:50,944 - INFO - Processing item 10/138: London County Council (General Powers) Act 1901
+2025-07-28 20:51:53,302 - INFO - Processing item 11/138: London County Council (Tramways and Improvements) Act 1901
+2025-07-28 20:51:57,717 - INFO - Processing item 12/138: Loch Leven Water Power Act 1901
+2025-07-28 20:52:00,082 - INFO - Processing item 13/138: Rugby Water and Improvement Act 1901
+2025-07-28 20:52:02,426 - INFO - Processing item 14/138: Harrogate Corporation Act 1901
+2025-07-28 20:52:04,647 - INFO - Processing item 15/138: Derby Corporation Act 1901
+2025-07-28 20:52:07,058 - INFO - Processing item 16/138: Llanelly Harbour Act 1901
+2025-07-28 20:52:09,722 - INFO - Processing item 17/138: Manchester and Liverpool Electric Express Railway Act 1901
+2025-07-28 20:52:12,008 - INFO - Processing item 18/138: Bristol Docks and Railways Act 1901
+2025-07-28 20:52:14,742 - INFO - Processing item 19/138: Weston-super-Mare Gas Act 1901
+2025-07-28 20:52:17,098 - INFO - Processing item 20/138: Portmadoc, Beddgelert and South Snowdon Railway Act 1901
+2025-07-28 20:52:19,970 - INFO - Processing item 21/138: Wallasey Improvement Act 1901
+2025-07-28 20:52:23,919 - INFO - Processing item 22/138: London United Tramways Act 1901
+2025-07-28 20:52:26,481 - INFO - Processing item 23/138: Belfast and Northern Counties Railway Act 1901
+2025-07-28 20:52:29,089 - INFO - Processing item 24/138: Stratton and Bude Improvement Act 1901
+2025-07-28 20:52:31,213 - INFO - Processing item 25/138: South Lancashire Tramways Act 1901
+2025-07-28 20:52:33,331 - INFO - Processing item 26/138: Leeds Corporation (Water) Act 1901
+2025-07-28 20:52:35,441 - INFO - Processing item 27/138: Leeds Corporation (General Powers) Act 1901
+2025-07-28 20:52:37,847 - INFO - Processing item 28/138: Wolverhampton and Cannock Chase Railway Act 1901
+2025-07-28 20:52:40,557 - INFO - Processing item 29/138: Swansea Harbour Act 1901
+2025-07-28 20:52:43,287 - INFO - Processing item 30/138: Midland Counties Junction Railways (Sale) Act 1901
+2025-07-28 20:52:45,676 - INFO - Processing item 31/138: West Cumberland Electric Tramways Act 1901
+2025-07-28 20:52:49,314 - INFO - Processing item 32/138: Ilkeston and Heanor Water Act 1901
+2025-07-28 20:52:51,682 - INFO - Processing item 33/138: Aldeburgh Corporation (Water) Act 1901
+2025-07-28 20:52:53,628 - INFO - Processing item 34/138: Southport Water (Transfer) Act 1901
+2025-07-28 20:52:57,042 - INFO - Processing item 35/138: Harpenden District Gas Act 1901
+2025-07-28 20:52:59,709 - INFO - Processing item 36/138: Ripon Corporation Act 1901
+2025-07-28 20:53:02,347 - INFO - Processing item 37/138: Lowestoft Corporation Act 1901
+2025-07-28 20:53:05,009 - INFO - Processing item 38/138: Smethwick Corporation Act 1901
+2025-07-28 20:53:07,581 - INFO - Processing item 39/138: Dover Corporation Act 1901
+2025-07-28 20:53:09,999 - INFO - Processing item 40/138: Cromer Water Act 1901
+2025-07-28 20:53:12,510 - INFO - Processing item 41/138: Shrewsbury Gas Act 1901
+2025-07-28 20:53:16,154 - INFO - Processing item 42/138: Newcastle-upon-Tyne and Gateshead Gas Act 1901
+2025-07-28 20:53:18,779 - INFO - Processing item 43/138: Aspatria Silloth and District Water Act 1901
+2025-07-28 20:53:21,417 - INFO - Processing item 44/138: Rodgers' Patent Act 1901
+2025-07-28 20:53:24,356 - INFO - Processing item 45/138: Nitrate Railways Company Act 1901
+2025-07-28 20:53:27,131 - INFO - Processing item 46/138: British Gas Light Company (Hull Station) Act 1901
+2025-07-28 20:53:30,154 - INFO - Processing item 47/138: Irish Presbyterian Church Act 1901
+2025-07-28 20:53:32,108 - INFO - Processing item 48/138: Pier and Harbour Orders Confirmation (No. 1) Act 1901
+2025-07-28 20:53:34,236 - INFO - Processing item 49/138: Inclosure (Sutton) Provisional Order Act 1901
+2025-07-28 20:53:36,482 - INFO - Processing item 50/138: Arizona Copper Company Order Confirmation Act 1901
+2025-07-28 20:53:38,848 - INFO - Processing item 51/138: North British and Mercantile Insurance Company's Order Confirmation Act 1901
+2025-07-28 20:53:42,701 - INFO - Processing item 52/138: Ardrossan Gas and Water Order Confirmation Act 1901
+2025-07-28 20:53:44,852 - INFO - Processing item 53/138: Metropolitan Commons (Orpington) Supplemental Act 1901
+2025-07-28 20:53:47,227 - INFO - Processing item 54/138: Drainage and Improvement of Lands Supplemental (Ireland) Act 1901
+2025-07-28 20:53:49,810 - INFO - Processing item 55/138: Regulation and Inclosure (Skipwith) Provisional Orders Act 1901
+2025-07-28 20:53:51,805 - INFO - Processing item 56/138: Local Government Board's Provisional Orders Confirmation (Poor Law) Act 1901
+2025-07-28 20:53:54,453 - INFO - Processing item 57/138: Local Government Board's Provisional Order Confirmation (Gas) Act 1901
+2025-07-28 20:53:57,295 - INFO - Processing item 58/138: Local Government Board's Provisional Orders Confirmation (No. 3) Act 1901
+2025-07-28 20:54:00,147 - INFO - Processing item 59/138: Local Government Board's Provisional Orders Confirmation (No. 2) Act 1901
+2025-07-28 20:54:02,069 - INFO - Processing item 60/138: Military Works Act 1901
+2025-07-28 20:54:04,706 - INFO - Processing item 61/138: Local Government Board's Provisional Orders Confirmation (No. 1) Act 1901
+2025-07-28 20:54:08,396 - INFO - Processing item 62/138: Naval Works Act 1901
+2025-07-28 20:54:10,736 - INFO - Processing item 63/138: Electric Lighting Orders Confirmation (No. 4) Act 1901
+2025-07-28 20:54:13,295 - INFO - Processing item 64/138: Fisheries (Ireland) Act 1901
+2025-07-28 20:54:16,252 - INFO - Processing item 65/138: Electric Lighting Orders Confirmation (No. 3) Act 1901
+2025-07-28 20:54:18,653 - INFO - Processing item 66/138: Valuation (Ireland) Act 1901
+2025-07-28 20:54:21,629 - INFO - Processing item 67/138: Electric Lighting Orders Confirmation (No. 2) Act 1901
+2025-07-28 20:54:23,358 - INFO - Processing item 68/138: Light Railway Commissioners (Salaries) Act 1901
+2025-07-28 20:54:25,631 - INFO - Processing item 69/138: Local Government Board (Ireland) Provisional Orders Confirmation (No. 2) Act 1901
+2025-07-28 20:54:28,263 - INFO - Processing item 70/138: Public Works Loans Act 1901
+2025-07-28 20:54:30,673 - INFO - Processing item 71/138: Local Government Board (Ireland) Provisional Order Confirmation (No. 1) Act 1901
+2025-07-28 20:54:34,712 - INFO - Processing item 72/138: Congested Districts Board (Ireland) Act 1901
+2025-07-28 20:54:37,425 - INFO - Processing item 73/138: Education Board Provisional Order Confirmation (Acton) Act 1901
+2025-07-28 20:54:40,111 - INFO - Processing item 74/138: Expiring Laws Continuance Act 1901
+2025-07-28 20:54:43,075 - INFO - Processing item 75/138: Metropolitan Commons (Ham) Supplemental Act 1901
+2025-07-28 20:54:45,379 - INFO - Processing item 76/138: Isle of Man (Customs) Act 1901
+2025-07-28 20:54:47,765 - INFO - Processing item 77/138: Military Lands Provisional Orders Confirmation Act 1901
+2025-07-28 20:54:50,180 - INFO - Processing item 78/138: Pacific Cable Act 1901
+2025-07-28 20:54:52,259 - INFO - Processing item 79/138: Falkirk and District Tramways Order Confirmation Act 1901
+2025-07-28 20:54:55,129 - INFO - Processing item 80/138: Purchase of Land (Ireland) (No. 2) Act 1901
+2025-07-28 20:54:57,398 - INFO - Processing item 81/138: Hamilton Burgh Order Confirmation Act 1901
+2025-07-28 20:55:01,613 - INFO - Processing item 82/138: Colonial Acts Confirmation Act 1901
+2025-07-28 20:55:03,498 - INFO - Processing item 83/138: Highland Railway Order Confirmation Act 1901
+2025-07-28 20:55:06,329 - INFO - Processing item 84/138: Local Government (Ireland) Act 1901
+2025-07-28 20:55:09,038 - INFO - Processing item 85/138: Ayr Harbour Order Confirmation Act 1901
+2025-07-28 20:55:12,268 - INFO - Processing item 86/138: Intoxicating Liquors (Sale to Children) Act 1901
+2025-07-28 20:55:15,296 - INFO - Processing item 87/138: Ardrossan Harbour Order Confirmation Act 1901
+2025-07-28 20:55:18,036 - INFO - Processing item 88/138: Births and Deaths Registration Act 1901
+2025-07-28 20:55:20,542 - INFO - Processing item 89/138: Scottish Provident Institution Order Confirmation Act 1901
+2025-07-28 20:55:23,140 - INFO - Processing item 90/138: East India Loan (Great Indian Peninsula Railway Debentures) Act 1901
+2025-07-28 20:55:25,599 - INFO - Processing item 91/138: Grangemouth Water Order Confirmation Act 1901
+2025-07-28 20:55:29,205 - INFO - Processing item 92/138: Burgh Sewerage, Drainage and Water Supply (Scotland) Act 1901
+2025-07-28 20:55:31,943 - INFO - Processing item 93/138: Midland Railway Act 1901
+2025-07-28 20:55:34,402 - INFO - Processing item 94/138: Marriages Legalization Act 1901
+2025-07-28 20:55:36,478 - INFO - Processing item 95/138: Great Northern Railway Act 1901
+2025-07-28 20:55:39,418 - INFO - Processing item 96/138: Factory and Workshop Act 1901
+2025-07-28 20:55:41,832 - INFO - Processing item 97/138: Bury Corporation Tramways Act 1901
+2025-07-28 20:55:44,304 - INFO - Processing item 98/138: Appropriation Act 1901
+2025-07-28 20:55:46,473 - INFO - Processing item 99/138: Mersey Docks (Canada Dock Works, &c.) Act 1901
+2025-07-28 20:55:48,838 - INFO - Processing item 100/138: Youthful Offenders Act 1901
+2025-07-28 20:55:51,172 - INFO - Processing item 101/138: Horley District Gas Act 1901
+2025-07-28 20:55:54,992 - INFO - Processing item 102/138: Public Libraries Act 1901
+2025-07-28 20:55:57,336 - INFO - Processing item 103/138: Otley Gas Act 1901
+2025-07-28 20:55:59,968 - INFO - Processing item 104/138: Patents Act 1901
+2025-07-28 20:56:02,418 - INFO - Processing item 105/138: School for Orphans of Freemen of the City of London Act 1901
+2025-07-28 20:56:04,202 - INFO - Processing item 106/138: Lunacy (Ireland) Act 1901
+2025-07-28 20:56:06,118 - INFO - Processing item 107/138: Thames Deep Water Dock Act 1901
+2025-07-28 20:56:08,859 - INFO - Processing item 108/138: National Gallery (Purchase of Adjacent Land) Act 1901
+2025-07-28 20:56:11,050 - INFO - Processing item 109/138: Neath Harbour Act 1901
+2025-07-28 20:56:13,492 - INFO - Processing item 110/138: Royal Titles Act 1901
+2025-07-28 20:56:15,966 - INFO - Processing item 111/138: London Bridge Widening Act 1901
+2025-07-28 20:56:19,841 - INFO - Processing item 112/138: Militia and Yeomanry Act 1901
+2025-07-28 20:56:22,148 - INFO - Processing item 113/138: Oakham Water Act 1901
+2025-07-28 20:56:24,242 - INFO - Processing item 114/138: Agricultural Rates Act, 1896, &c., Continuance Act 1901
+2025-07-28 20:56:27,231 - INFO - Processing item 115/138: Omagh Gas Act 1901
+2025-07-28 20:56:29,979 - INFO - Processing item 116/138: Loan Act 1901
+2025-07-28 20:56:32,499 - INFO - Processing item 117/138: Alfreton Gas Act 1901
+2025-07-28 20:56:35,208 - INFO - Processing item 118/138: Education Act 1901
+2025-07-28 20:56:37,352 - INFO - Processing item 119/138: Sheffield District Railway Act 1901
+2025-07-28 20:56:40,220 - INFO - Processing item 120/138: Larceny Act 1901
+2025-07-28 20:56:43,097 - INFO - Processing item 121/138: Royal Exchange Assurance Act 1901
+2025-07-28 20:56:47,005 - INFO - Processing item 122/138: Education (Scotland) Act 1901
+2025-07-28 20:56:49,541 - INFO - Processing item 123/138: Bristol Clifton and West of England Zoological Society's Act 1901
+2025-07-28 20:56:52,150 - INFO - Processing item 124/138: Isolation Hospitals Act 1901
+2025-07-28 20:56:54,826 - INFO - Processing item 125/138: Finance Act 1901
+2025-07-28 20:56:56,768 - INFO - Processing item 126/138: Gateshead and District Tramways Act 1901
+2025-07-28 20:56:59,143 - INFO - Processing item 127/138: Consolidated Fund (No. 2) Act 1901
+2025-07-28 20:57:01,798 - INFO - Processing item 128/138: Folkestone Corporation Act 1901
+2025-07-28 20:57:04,417 - INFO - Processing item 129/138: Demise of the Crown Act 1901
+2025-07-28 20:57:06,422 - INFO - Processing item 130/138: Honley Urban District Council (Gas) Act 1901
+2025-07-28 20:57:08,981 - INFO - Processing item 131/138: Civil List Act 1901
+2025-07-28 20:57:13,875 - INFO - Processing item 132/138: Gravesend Gas Act 1901
+2025-07-28 20:57:16,506 - INFO - Processing item 133/138: Purchase of Land (Ireland) Act 1901
+2025-07-28 20:57:19,105 - INFO - Processing item 134/138: Thames and Severn Canal Order Confirmation Act 1901
+2025-07-28 20:57:21,269 - INFO - Processing item 135/138: Army (Annual) Act 1901
+2025-07-28 20:57:23,930 - INFO - Processing item 136/138: Paisley Gas Order Confirmation Act 1901
+2025-07-28 20:57:26,079 - INFO - Processing item 137/138: Consolidated Fund (No. 1) Act 1901
+2025-07-28 20:57:28,799 - INFO - Processing item 138/138: Henry Diaper and Company (Delivery Warrants) Act 1901
+2025-07-28 20:57:31,697 - INFO - Saving 138 items to data/uk_legislation_1901.csv
+2025-07-28 20:57:31,698 - INFO - Successfully saved to data/uk_legislation_1901.csv
+2025-07-28 20:57:31,699 - INFO - Summary: 138/138 pages available, 138/138 plain URLs available, 138/138 PDF URLs available
+Processing year 1902 at Mon Jul 28 08:57:33 PM PDT 2025
+2025-07-28 20:57:33,863 - INFO - Scraping primary legislation only for year 1902
+2025-07-28 20:57:33,863 - INFO - Scraping primary legislation only for year 1902
+2025-07-28 20:57:33,863 - INFO - Fetching page 1 for year 1902: https://www.legislation.gov.uk/primary/1902
+2025-07-28 20:57:34,431 - INFO - Found 20 items on page 1
+2025-07-28 20:57:35,432 - INFO - Fetching page 2 for year 1902: https://www.legislation.gov.uk/primary/1902?page=2
+2025-07-28 20:57:35,927 - INFO - Found 20 items on page 2
+2025-07-28 20:57:36,928 - INFO - Fetching page 3 for year 1902: https://www.legislation.gov.uk/primary/1902?page=3
+2025-07-28 20:57:37,342 - INFO - Found 20 items on page 3
+2025-07-28 20:57:38,343 - INFO - Fetching page 4 for year 1902: https://www.legislation.gov.uk/primary/1902?page=4
+2025-07-28 20:57:38,731 - INFO - Found 12 items on page 4
+2025-07-28 20:57:38,731 - INFO - No next page found after page 4
+2025-07-28 20:57:38,731 - INFO - Found total of 72 items for year 1902
+2025-07-28 20:57:38,731 - INFO - Enriching 72 items with additional URLs and checking availability
+2025-07-28 20:57:38,731 - INFO - Processing item 1/72: Glasgow Corporation (Water and General) Order Confirmation Act 1902
+2025-07-28 20:57:41,433 - INFO - Processing item 2/72: Bexhill and Rotherfield Railway (Abandonment) Act 1902
+2025-07-28 20:57:43,954 - INFO - Processing item 3/72: Brompton and Piccadilly Circus Railway Act 1902
+2025-07-28 20:57:47,120 - INFO - Processing item 4/72: North West London Railway Act 1902
+2025-07-28 20:57:50,139 - INFO - Processing item 5/72: Edgware and Hampstead Railway Act 1902
+2025-07-28 20:57:52,250 - INFO - Processing item 6/72: Charing Cross, Euston and Hampstead Railway Act 1902
+2025-07-28 20:57:55,204 - INFO - Processing item 7/72: Baker Street and Waterloo Railway Act 1902
+2025-07-28 20:57:58,087 - INFO - Processing item 8/72: South Eastern and London, Chatham and Dover Railways Act 1902
+2025-07-28 20:58:00,159 - INFO - Processing item 9/72: Richmond, Petersham and Ham Open Spaces Act 1902
+2025-07-28 20:58:02,371 - INFO - Processing item 10/72: Wick Burgh Extension Order Confirmation Act 1902
+2025-07-28 20:58:04,725 - INFO - Processing item 11/72: Dumbarton Corporation (Further Powers) Order Confirmation Act 1902
+2025-07-28 20:58:08,647 - INFO - Processing item 12/72: Lanarkshire (Middle Ward District) Water Order Confirmation Act 1902
+2025-07-28 20:58:11,675 - INFO - Processing item 13/72: Gas and Water Orders Confirmation (No. 3) Act 1902
+2025-07-28 20:58:14,090 - INFO - Processing item 14/72: Gas and Water Orders Confirmation (No. 1) Act 1902
+2025-07-28 20:58:16,402 - INFO - Processing item 15/72: London United Tramways Act 1902
+2025-07-28 20:58:18,833 - INFO - Processing item 16/72: Fleetwood Urban District Council Act 1902
+2025-07-28 20:58:21,521 - INFO - Processing item 17/72: Eastbourne Corporation Act 1902
+2025-07-28 20:58:23,861 - INFO - Processing item 18/72: Dublin Port and Docks Act 1902
+2025-07-28 20:58:26,935 - INFO - Processing item 19/72: London and India Docks Company (Various Powers) Act 1902
+2025-07-28 20:58:29,947 - INFO - Processing item 20/72: Great Western Railway (Crumlin Viaduct) Act 1902
+2025-07-28 20:58:31,886 - INFO - Processing item 21/72: York Corporation Act 1902
+2025-07-28 20:58:35,291 - INFO - Processing item 22/72: Liverpool Corporation Act 1902
+2025-07-28 20:58:37,465 - INFO - Processing item 23/72: Whitstable Water and Improvement Act 1902
+2025-07-28 20:58:39,421 - INFO - Processing item 24/72: Menai Bridge Urban District Act 1902
+2025-07-28 20:58:41,821 - INFO - Processing item 25/72: Barrow Haematite Steel Company Act 1902
+2025-07-28 20:58:44,010 - INFO - Processing item 26/72: Dover Harbour Act 1902
+2025-07-28 20:58:46,068 - INFO - Processing item 27/72: Great Northern and Strand Railway Act 1902
+2025-07-28 20:58:48,253 - INFO - Processing item 28/72: Margate Corporation (Water) Act 1902
+2025-07-28 20:58:50,197 - INFO - Processing item 29/72: Education Board Provisional Order Confirmation (London) Act 1902
+2025-07-28 20:58:52,386 - INFO - Processing item 30/72: Education Act 1902
